@@ -8,4 +8,4 @@ them in its outgoing <tt>AppendEntries</tt> RPCs. Each server communicates to ot
 with several key-value servers that coordinate their activities
 through the Raft log. 
 
-This project was completed by me based off of skeleton code for a class assignment.
+This project was completed by me based off of skeleton code for a class assignment. Primary files written were raft.go, common.go, client.go, and server.go
